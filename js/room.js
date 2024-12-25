@@ -1,4 +1,4 @@
-const socket = io("http://localhost:3000/", {
+const socket = io("http://16.16.63.163:3000/", {
     transports: ["websocket"]  //to avoid cors
 });
 

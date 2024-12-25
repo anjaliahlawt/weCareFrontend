@@ -1,4 +1,4 @@
-const backendURL = "http://localhost:3000/"
+const backendURL = "http://16.16.63.163:3000/"
 const spinner = document.getElementById("spinner");
 
 document.querySelector("#signup").addEventListener("click", () => {

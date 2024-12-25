@@ -2,7 +2,7 @@
 // <input type="text" class="search-input" placeholder="Search by specialty">
 // <button class="search-btn">Search</button>
 
-const backendURL = "http://localhost:3000/";
+const backendURL = "http://16.16.63.163:3000/";
 
 if (!localStorage.getItem("token")) {
     alert("Please login");
